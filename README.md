@@ -13,6 +13,9 @@ It determines the winner based on standard rules and provides an interactive, fu
 Features:
 
 1.User vs Computer
+
 2.Game Logic
+
 3.Score Tracking
+
 4.Play Again Option
